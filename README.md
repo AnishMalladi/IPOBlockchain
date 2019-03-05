@@ -1,6 +1,6 @@
-# ipoblock
+# Locus Exchange
 
-Blockchain solution for IPO processes 
+Blockchain solution for private trading equity system 
 
 ## Running Locally
 
